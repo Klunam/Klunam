@@ -12,8 +12,8 @@
   <a href="mailto:YOUR-EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Follow&style=social" />
+  <a href="https://github.com/Klunam">
+    <img src="https://img.shields.io/github/followers/Klunam?label=Follow&style=social" />
   </a>
 </p>
 
